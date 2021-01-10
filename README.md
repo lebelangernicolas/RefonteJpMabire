@@ -6,4 +6,6 @@
   
 <a href=https://github.com/lebelangernicolas/RefonteJpMabire/blob/main/Documents/R%C3%A9partition%20des%20t%C3%A2ches.pdf>Répartition des charges</a>
 
+<a href=https://github.com/lebelangernicolas/RefonteJpMabire/blob/main/Documents/Chartes%20Graphiques.pdf>Chartes Graphiques</a>
+
 
